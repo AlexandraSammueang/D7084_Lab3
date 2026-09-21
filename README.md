@@ -19,3 +19,7 @@ file = "path/to/Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv"
 ```
 4. Run the notebook cells in order.
 
+## Reproducibility
+
+The random seed is fixed at the top of the notebook "SEED = 42"
+
